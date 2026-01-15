@@ -40,6 +40,6 @@
 ## 🌱 Learning
 
 - Advanced PHP and backend frameworks.  
-- Modern JavaScript (ES6+) and interactive UI components.  
+- Modern JavaScript and interactive UI components.  
 - Cloud deployment & hosting solutions.  
 
