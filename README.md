@@ -43,8 +43,3 @@
 - Modern JavaScript (ES6+) and interactive UI components.  
 - Cloud deployment & hosting solutions.  
 
----
-
-## 📊 GitHub Stats
-
-![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonasharma11&show_icons=true&theme=radical)
